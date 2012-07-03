@@ -4,7 +4,7 @@
     <groupId>org.iplantc.core</groupId>
     <artifactId>authn</artifactId>
     <packaging>jar</packaging>
-    <version>dev-SNAPSHOT</version>
+    <version>1.4-SNAPSHOT</version>
     <name>Authentication</name>
     <url>http://iplantc.org/</url>
     <properties>
