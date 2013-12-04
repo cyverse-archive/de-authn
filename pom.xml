@@ -5,7 +5,7 @@
     <groupId>org.iplantc.core</groupId>
     <artifactId>authn</artifactId>
     <packaging>jar</packaging>
-    <version>1.8.4-SNAPSHOT</version>
+    <version>dev-SNAPSHOT</version>
     <name>Authentication</name>
     <url>http://www.iplantcollaborative.org/</url>
 
