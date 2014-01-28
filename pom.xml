@@ -95,21 +95,4 @@
             </plugin>
         </plugins>
     </reporting>
-
-    <repositories>
-        <repository>
-            <id>central</id>
-            <name>Maven Repository Switchboard</name>
-            <layout>default</layout>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-            <url>http://repo1.maven.org/maven2</url>
-        </repository>
-        <repository>
-            <id>iplantCollaborative</id>
-            <name>iPlant Collaborative local repository</name>
-            <url>http://projects.iplantcollaborative.org/archiva/repository/internal/</url>
-        </repository>
-    </repositories>
 </project>
