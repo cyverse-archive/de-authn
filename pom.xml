@@ -7,7 +7,12 @@
     <packaging>jar</packaging>
     <version>dev-SNAPSHOT</version>
     <name>Authentication</name>
+
     <url>http://www.iplantcollaborative.org/</url>
+
+    <description>
+        This library contains miscellaneous classes used to store DE authentication information.
+    </description>
 
     <parent>
         <groupId>org.sonatype.oss</groupId>
@@ -32,6 +37,12 @@
         <developerConnection>scm:git:git@github.com:iPlantCollaborativeOpenSource/de-authn.git</developerConnection>
         <url>git@github.com:iPlantCollaborativeOpenSource/de-authn.git</url>
     </scm>
+
+    <developers>
+        <developer>
+            <url>https://github.com/orgs/iPlantCollaborativeOpenSource/teams/iplant-devs</url>
+        </developer>
+    </developers>
 
     <dependencies>
         <dependency>
